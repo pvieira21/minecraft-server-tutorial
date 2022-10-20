@@ -1,0 +1,52 @@
+[16:41:31] [ServerMain/INFO]: Building unoptimized datafixer
+[16:41:33] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:41:36] [ServerMain/INFO]: Loaded 7 recipes
+[16:41:36] [ServerMain/INFO]: Loaded 1179 advancements
+[16:41:38] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[16:41:38] [Server thread/INFO]: Loading properties
+[16:41:38] [Server thread/INFO]: Default game type: SURVIVAL
+[16:41:38] [Server thread/INFO]: Generating keypair
+[16:41:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:41:38] [Server thread/INFO]: Using default channel type
+[16:41:38] [Server thread/INFO]: Preparing level "world"
+[16:41:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:41:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:41:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:41:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:41:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:41:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:41:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:41:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:41:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:41:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:41:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:41:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:41:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:41:45] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[16:41:46] [Worker-Main-2/INFO]: Preparing spawn area: 47%
+[16:41:46] [Server thread/INFO]: Time elapsed: 7230 ms
+[16:41:46] [Server thread/INFO]: Done (7.851s)! For help, type "help"
+[16:44:10] [User Authenticator #1/INFO]: UUID of player kaoszz is b800e5c0-958f-42bd-9c4f-76cb161ef16c
+[16:44:11] [Server thread/INFO]: kaoszz[/192.168.1.216:58331] logged in with entity id 275 at (77.03224356342044, 70.0, -54.229209014846845)
+[16:44:11] [Server thread/INFO]: kaoszz joined the game
+[16:44:19] [Server thread/INFO]: kaoszz lost connection: Disconnected
+[16:44:19] [Server thread/INFO]: kaoszz left the game
+[16:47:49] [User Authenticator #2/INFO]: UUID of player kaoszz is b800e5c0-958f-42bd-9c4f-76cb161ef16c
+[16:47:49] [Server thread/INFO]: kaoszz[/192.168.1.216:50909] logged in with entity id 323 at (77.03224356342044, 70.0, -54.229209014846845)
+[16:47:49] [Server thread/INFO]: kaoszz joined the game
+[16:48:11] [Server thread/INFO]: kaoszz has made the advancement [Monster Hunter]
+[16:48:15] [Server thread/INFO]: kaoszz lost connection: Disconnected
+[16:48:15] [Server thread/INFO]: kaoszz left the game
+[16:49:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:49:14] [Server thread/INFO]: exit<--[HERE]
+[16:49:17] [Server thread/INFO]: Stopping the server
+[16:49:17] [Server thread/INFO]: Stopping server
+[16:49:17] [Server thread/INFO]: Saving players
+[16:49:17] [Server thread/INFO]: Saving worlds
+[16:49:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:49:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:49:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:49:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:49:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:49:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:49:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

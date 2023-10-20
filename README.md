@@ -29,6 +29,10 @@ To solve this, you'll have to edit the generated file "**eula.txt**" and change 
 
 Now your server is running locally in your machine. To stop the server just type the command ``stop`` in the command-line.
 
+**Note: Please pay attention to the minimum (``-Xms``) amd maximum (``-Xmx``) amount of RAM you want to allow your server to use in the file *start_server.bat*. Right now, is 2GB (``-Xms2048 -Xmx2048``, repesented in Megabytes, use [this site](https://www.gigacalculator.com/converters/convert-gb-to-mb.php) for conversions). For more information, check [this article](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/).**
+
+![StartServer_Script](help/script.png)
+
 **Now let's run the server online!**
 
 ## [STEP 4] Port forward your server
